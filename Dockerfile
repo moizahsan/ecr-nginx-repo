@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:genxstylez/nginx-alpine
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
